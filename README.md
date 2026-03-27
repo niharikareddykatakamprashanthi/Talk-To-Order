@@ -255,10 +255,4 @@ uv run ruff format .
 
 ---
 
-## License
-
-MIT — see [LICENSE](LICENSE) for details.
-
----
-
 <p align="center">Built with the Anthropic SDK · FastMCP · OpenAI Whisper · Streamlit</p>
