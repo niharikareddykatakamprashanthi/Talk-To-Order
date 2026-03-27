@@ -1,0 +1,90 @@
+{
+  "restaurant": "TalkBites",
+  "categories": ["Burgers", "Sides", "Drinks"],
+  "items": [
+    {
+      "id": "B001",
+      "name": "Classic Smash Burger",
+      "description": "Double smashed beef patty, American cheese, pickles, mustard, ketchup on a brioche bun",
+      "price": 9.99,
+      "category": "Burgers"
+    },
+    {
+      "id": "B002",
+      "name": "Spicy Crispy Chicken Burger",
+      "description": "Buttermilk fried chicken, sriracha slaw, jalapeños, and chipotle mayo on a toasted bun",
+      "price": 10.99,
+      "category": "Burgers"
+    },
+    {
+      "id": "B003",
+      "name": "BBQ Bacon Burger",
+      "description": "Beef patty, smoky BBQ sauce, crispy bacon, caramelised onions, and cheddar cheese",
+      "price": 11.99,
+      "category": "Burgers"
+    },
+    {
+      "id": "B004",
+      "name": "Mushroom Swiss Burger",
+      "description": "Beef patty topped with sautéed mushrooms, Swiss cheese, and garlic aioli",
+      "price": 11.49,
+      "category": "Burgers"
+    },
+    {
+      "id": "S001",
+      "name": "Loaded Fries",
+      "description": "Crispy fries topped with cheddar sauce, bacon bits, and spring onions",
+      "price": 5.99,
+      "category": "Sides"
+    },
+    {
+      "id": "S002",
+      "name": "Onion Rings",
+      "description": "Beer-battered onion rings served with a smoky dipping sauce",
+      "price": 4.49,
+      "category": "Sides"
+    },
+    {
+      "id": "S003",
+      "name": "Coleslaw",
+      "description": "House-made creamy coleslaw with a hint of apple cider vinegar",
+      "price": 3.49,
+      "category": "Sides"
+    },
+    {
+      "id": "S004",
+      "name": "Sweet Potato Fries",
+      "description": "Crispy sweet potato fries seasoned with sea salt and smoked paprika",
+      "price": 4.99,
+      "category": "Sides"
+    },
+    {
+      "id": "D001",
+      "name": "Classic Lemonade",
+      "description": "Freshly squeezed lemonade with a hint of mint, served over ice",
+      "price": 3.49,
+      "category": "Drinks"
+    },
+    {
+      "id": "D002",
+      "name": "Chocolate Milkshake",
+      "description": "Thick and creamy chocolate milkshake made with real ice cream",
+      "price": 5.99,
+      "category": "Drinks"
+    },
+    {
+      "id": "D003",
+      "name": "Craft Cola",
+      "description": "Small-batch handcrafted cola with natural vanilla and citrus notes",
+      "price": 3.99,
+      "category": "Drinks"
+    },
+    {
+      "id": "D004",
+      "name": "Mango Iced Tea",
+      "description": "Cold-brewed black tea blended with real mango puree, lightly sweetened",
+      "price": 4.49,
+      "category": "Drinks"
+    }
+  ]
+}

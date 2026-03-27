@@ -1,0 +1,15 @@
+[project]
+name = "talk-to-order"
+version = "0.1.0"
+description = "Voice-based food ordering system using MCP and Claude Agents"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.40.0",
+    "streamlit>=1.40.0",
+    "audio-recorder-streamlit>=0.0.8",
+    "openai-whisper>=20231117",
+    "gtts>=2.5.0",
+    "python-dotenv>=1.0.0",
+    "mcp[cli]>=1.26.0",
+]
